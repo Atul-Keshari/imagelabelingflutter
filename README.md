@@ -1,6 +1,6 @@
 # imagelabelingflutter
 
-A new Flutter project.
+This versatile Flutter application allows users to capture images using the camera by holding the designated icon or select images from their gallery by simply tapping on the icon. Once an image is chosen, the app utilizes the powerful Google ML image labeling and image picker packages to provide highly accurate predictions about the objects depicted in the image, with a probability threshold of over 50%.
 
 ## Getting Started
 
